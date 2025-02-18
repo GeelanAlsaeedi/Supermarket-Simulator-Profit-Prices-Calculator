@@ -16,8 +16,7 @@ This is a simple Python application built using the **Tkinter** library. It calc
 
 ## Screenshot
 
-![Screenshot of the Application](screenshot.png)  
-*(Replace `screenshot.png` with an actual screenshot of your application.)*
+![calc]([screenshot.png](https://github.com/user-attachments/assets/dccb302b-6332-4ac1-ab4b-d76cf9fe7d6b))  
 
 ---
 
