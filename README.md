@@ -1,10 +1,10 @@
-Supermarket Simulator - Profit Calculator
+# Supermarket Simulator - Profit Calculator
 
 This is a simple Python application built using the **Tkinter** library. It calculates the profit price based on a given market price and a selected profit percentage (5%, 8.5%, or 10%). The application features a graphical user interface (GUI) with an entry widget, radio buttons, and a result display.
 
 ---
 
-##Features
+## Features
 
 - **Input Market Price**: Enter the market price in the provided entry box.
 - **Select Profit Percentage**: Choose between 5%, 8.5%, or 10% profit using radio buttons.
